@@ -92,11 +92,6 @@ include 'components/add_cart.php';
 <!-- footer section ends -->
 
 
-
-
-
-
-
 <!-- custom js file link  -->
 <script src="js/script.js"></script>
 
